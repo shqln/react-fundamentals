@@ -4,16 +4,21 @@
   flex-direction: column;
   justify-content: center;
   text-align: center;
+  font-style: italic;
+  font-weight: bold;
 }
 .box--large {
+  background-color: orange;
   width: 270px;
   height: 270px;
 }
 .box--medium {
+  background-color: pink;
   width: 180px;
   height: 180px;
 }
 .box--small {
+  background-color: lightblue;
   width: 90px;
   height: 90px;
 }
